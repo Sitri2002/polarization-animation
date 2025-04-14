@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/main/1080p60/partial_movie_files/LightWaveWithPolarizer/2487538728_769262204_753954118.mp4'
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/main/1080p60/partial_movie_files/LightWaveWithPolarizer/2573575125_2840115676_2063251200.mp4'
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/main/1080p60/partial_movie_files/LightWaveWithPolarizer/2573575125_3221194786_2584875575.mp4'
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/main/1080p60/partial_movie_files/LightWaveWithPolarizer/2573575125_4073845205_494084517.mp4'

@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/linear/1080p60/partial_movie_files/SineWave3D/3337732669_1471150394_3471407146.mp4'
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/linear/1080p60/partial_movie_files/SineWave3D/2769478644_1067674921_166210926.mp4'
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/linear/1080p60/partial_movie_files/SineWave3D/2769478644_2503653169_2416561175.mp4'
+file 'file:C:/Users/nguye/Documents/Main-Repo/my-project/media/videos/linear/1080p60/partial_movie_files/SineWave3D/2769478644_1067674921_3668477924.mp4'
